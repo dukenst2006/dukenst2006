@@ -5,15 +5,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukenst2006" alt="dukenst2006" /> </p>
 
-- 🔭 I’m currently working on **Fastmesaj.com**
-
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://thelemaque-dukens.com/](https://thelemaque-dukens.com/)
+### ✅ Skills
+- Backend: PHP, Laravel (certified), LiveWire, Node.js
+- Frontend: Bootstrap, Vue.js, Tailwind, Inertia
+- PWA, SPA, Web sockets
+- Unit testing, Continuous integration, Git, Docker, Monitoring
+- API: Payment (Stripe, Paddle, Paypal), Mailing & Texting, Social networks
+- Data: MySQL, PostGre, Redis
+- Panel: Plesk, cPanel, 
+- CMS: Wordpress, Statamic, Prestashop
+- SEO & SEA
 
-- 📝 I regulary write articles on [https://thelemaque-dukens.com/](https://thelemaque-dukens.com/)
+### ✅ Experiences (10 years)
+- SaaS and PaaS
+- ERP and CRM
+- E-commerce
+- Online meeting and dating
+- High traffic websites and security
 
-- 💬 Ask me about **Vue, Laravel, PHP**
+- 💬 Ask me about **Vue, Laravel, PHP, JavaScript**
 
 - 📫 How to reach me **dukensdev@gmail.com**
 
